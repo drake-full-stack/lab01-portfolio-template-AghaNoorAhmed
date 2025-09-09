@@ -1,31 +1,21 @@
-# Lab 01: Personal Portfolio
+# Lab 01 — Portfolio Foundation
 
-**Student Name:** [Your Name Here]  
-**GitHub Username:** [Your GitHub Username]
+This repo contains:
+- `index.html` (About Me)
+- `hobbies.html` (Creative showcase)
+- `projects.html` (Placeholder)
+- `styles.css` (Optional styling)
 
-## 📋 Lab Checklist
+## Run locally
+Just open `index.html` in your browser.
 
-- [ ] Customize `index.html` with your about me content
-- [ ] Create `hobbies.html` with semantic HTML elements  
-- [ ] Create `projects.html` placeholder page
-- [ ] Add navigation between all pages
-- [ ] Deploy to GitHub Pages
-- [ ] Test all links on the live site
+## Deploy to GitHub Pages
+1. Push these files to your classroom repo.
+2. On GitHub, go to **Settings → Pages**.
+3. Source: **Deploy from a branch**; Branch: **main**; Folder: **/** (root) → Save.
+4. Wait 2–3 minutes, then visit:
+   `https://<your-username>.github.io/lab01-portfolio-template-AghaNoorAhmed/`
 
-## 🔗 Links
-
-- **Repository URL:** 
-- **Live Site URL:** 
-
-## 📝 Reflection
-
-After completing this lab, write a few sentences about:
-- What was the most challenging part?
-- What did you learn about semantic HTML?
-- How do you plan to expand this portfolio?
-
-[Write your reflection here]
-
----
-
-*This portfolio will grow throughout the semester as you add React components and full-stack projects!*
+## Notes
+- Uses semantic HTML (`header`, `nav`, `main`, `article`, `section`, `aside`, `footer`).
+- Mobile-friendly (viewport meta + fluid widths).
